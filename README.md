@@ -12,15 +12,15 @@ This Power BI report provides a comprehensive analysis of Walmart's sales data, 
 - Monthly Revenue: This line chart visualizes the monthly revenue trend.
 - Filter Panel: This filter panel allows users to filter the data by gender, payment method, customer type, city, and product line & branch.
 
-📊 Key Highlights of the Project:-
+                                                        ## 📊 Key Highlights of the Project:-
 
-# Overall Performance
+## Overall Performance
 
 1. Total Revenue: 645.93K
 2. Total Gross Income: 322.97K
 3. Average Customer Rating: 6.97
 
-# Customer Insights
+## Customer Insights
 
 1. Gender: Female customers are slightly more active than male customers.
 
@@ -30,12 +30,12 @@ This Power BI report provides a comprehensive analysis of Walmart's sales data, 
 
 4. City: Mandalay is the most active city, followed by Naypyitaw and Yangon.
 
-# Product Line Performance
+## Product Line Performance
 
 1. Product Line Sales Breakdown: Electronic accessories and fashion accessories are the top-selling product lines.
 2. Gross Income Across Branches: The Atlantic Ocean and Indian Ocean branches have the highest gross income.
 
-# Revenue Trends
+## Revenue Trends
 
 1. Monthly Revenue: Revenue has been steadily increasing from January to March.
 
@@ -64,4 +64,4 @@ https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_
 - PYTHON
 
 ## Skills
-- Data Analysis, 
+- Data Analysis, Consumer Buying Behaviour, Analytical Skills, Team Work 
