@@ -12,7 +12,7 @@ This Power BI report provides a comprehensive analysis of Walmart's sales data, 
 - Monthly Revenue: This line chart visualizes the monthly revenue trend.
 - Filter Panel: This filter panel allows users to filter the data by gender, payment method, customer type, city, and product line & branch.
 
-                                                           📊 Key Highlights of the Project
+                                   📊 Key Highlights of the Project
 
 ## Overall Performance
 
